@@ -1,0 +1,13 @@
+C:\Users\violy\source\repos\Zoo-master\bin\Debug\Зоомагазин.exe.config
+C:\Users\violy\source\repos\Zoo-master\bin\Debug\Зоомагазин.exe
+C:\Users\violy\source\repos\Zoo-master\bin\Debug\Зоомагазин.pdb
+C:\Users\violy\source\repos\Zoo-master\obj\Debug\Зоомагазин.csproj.AssemblyReference.cache
+C:\Users\violy\source\repos\Zoo-master\obj\Debug\Зоомагазин.AddForm.resources
+C:\Users\violy\source\repos\Zoo-master\obj\Debug\Зоомагазин.EditForm.resources
+C:\Users\violy\source\repos\Zoo-master\obj\Debug\Зоомагазин.Login.resources
+C:\Users\violy\source\repos\Zoo-master\obj\Debug\Зоомагазин.Products.resources
+C:\Users\violy\source\repos\Zoo-master\obj\Debug\Зоомагазин.Properties.Resources.resources
+C:\Users\violy\source\repos\Zoo-master\obj\Debug\Зоомагазин.csproj.GenerateResource.cache
+C:\Users\violy\source\repos\Zoo-master\obj\Debug\Зоомагазин.csproj.CoreCompileInputs.cache
+C:\Users\violy\source\repos\Zoo-master\obj\Debug\Зоомагазин.exe
+C:\Users\violy\source\repos\Zoo-master\obj\Debug\Зоомагазин.pdb
